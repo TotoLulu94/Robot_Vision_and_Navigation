@@ -1,0 +1,3 @@
+function cameraParams = getCameraParams()
+
+end
